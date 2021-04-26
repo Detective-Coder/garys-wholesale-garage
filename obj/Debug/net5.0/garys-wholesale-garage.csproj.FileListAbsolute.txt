@@ -1,0 +1,16 @@
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.exe
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.deps.json
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.runtimeconfig.json
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.runtimeconfig.dev.json
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.dll
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\ref\garys-wholesale-garage.dll
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\bin\Debug\net5.0\garys-wholesale-garage.pdb
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.csprojAssemblyReference.cache
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.AssemblyInfoInputs.cache
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.AssemblyInfo.cs
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.csproj.CoreCompileInputs.cache
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.dll
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\ref\garys-wholesale-garage.dll
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.pdb
+C:\Users\aaron\workspace\csharp\garys-wholesale-garage\obj\Debug\net5.0\garys-wholesale-garage.genruntimeconfig.cache

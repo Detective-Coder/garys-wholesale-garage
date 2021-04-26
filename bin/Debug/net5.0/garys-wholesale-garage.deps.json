@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "garys-wholesale-garage/1.0.0": {
+        "runtime": {
+          "garys-wholesale-garage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "garys-wholesale-garage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
