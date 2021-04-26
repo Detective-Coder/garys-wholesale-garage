@@ -12,7 +12,11 @@ namespace garys_wholesale_garage
       }
       public override void Drive()
       {
-        Console.WriteLine("The silver electric motorcyle zips by! Shookaaaaa!");
+        Console.WriteLine("The silver Zero zips by! Shookaaaaa!");
+      }
+      public override void Stop()
+      {
+        Console.WriteLine("The silver Zero zips by! Shookaaaaa!");
       }
   }
 }

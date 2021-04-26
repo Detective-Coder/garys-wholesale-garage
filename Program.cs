@@ -12,9 +12,28 @@ namespace garys_wholesale_garage
           Ram f150 = new Ram ();
 
           fxs.Drive();
+          fxs.Turn("left");
+          fxs.Stop();
+          Console.WriteLine();
+
           modelS.Drive();
+          modelS.Turn("right");
+          modelS.Stop();
+          Console.WriteLine();
+
           mx410.Drive();
+          mx410.Turn("up");
+          mx410.Stop();
+          Console.WriteLine();
+
           f150.Drive();
+          f150.Turn("down");
+          f150.Stop();
+
+          
+          
+          
+          
         }
     }
 }

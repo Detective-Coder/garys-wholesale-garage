@@ -14,5 +14,10 @@ namespace garys_wholesale_garage
       {
         Console.WriteLine("The blue Cessna flies by! Zooooom!");
       }
+      public override void Stop()
+      {
+        Console.WriteLine("The blue Cessna comes to a swift stop");
+      }
+   
   }
 }
