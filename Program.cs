@@ -6,7 +6,15 @@ namespace garys_wholesale_garage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          Zero fxs = new Zero ();
+          Tesla modelS = new Tesla ();
+          Cessna mx410 = new Cessna ();
+          Ram f150 = new Ram ();
+
+          fxs.Drive();
+          modelS.Drive();
+          mx410.Drive();
+          f150.Drive();
         }
     }
 }
