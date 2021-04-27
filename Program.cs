@@ -10,8 +10,7 @@ namespace garys_wholesale_garage
             Zero fxs = new Zero();
             Zero fx = new Zero();
             Tesla modelS = new Tesla();
-            Cessna mx410 = new Cessna();
-            Ram f150 = new Ram();
+            
 
             List<IElectricVehicle> electricVehicles = new List<IElectricVehicle>() {
                 fx, fxs, modelS
@@ -35,30 +34,30 @@ namespace garys_wholesale_garage
             }
 
             /***********************************************/
+            Console.WriteLine();
+            Ram ram = new Ram ();
+            Cessna cessna150 = new Cessna ();
 
-            // Ram ram = new Ram ();
-            // Cessna cessna150 = new Cessna ();
+            List<IGasVehicle> gasVehicles = new List<IGasVehicle>() {
+                ram, cessna150
+            };
 
-            // List<???> gasVehicles = new List<???>() {
-            //     ram, cessna150
-            // };
+            Console.WriteLine("Gas Vehicles");
+            foreach(IGasVehicle gv in gasVehicles)
+            {
+                Console.WriteLine($"Gas level: {gv.CurrentTankPercentage}%");
+            }
 
-            // Console.WriteLine("Gas Vehicles");
-            // foreach(??? gv in gasVehicles)
-            // {
-            //     Console.WriteLine($"{gv.CurrentTankPercentage}");
-            // }
+            foreach(IGasVehicle gv in gasVehicles)
+            {
+                // This should completely refuel the gas tank
+                gv.RefuelTank();
+            }
 
-            // foreach(??? gv in gasVehicles)
-            // {
-            //     // This should completely refuel the gas tank
-            //     gv.RefuelTank();
-            // }
-
-            // foreach(??? gv in gasVehicles)
-            // {
-            //     Console.WriteLine($"{gv.CurrentTankPercentage}");
-            // }
+            foreach(IGasVehicle gv in gasVehicles)
+            {
+                Console.WriteLine($"Gas Level: {gv.CurrentTankPercentage}%");
+            }
         }
     }
 }
